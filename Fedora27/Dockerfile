@@ -22,4 +22,4 @@ RUN cd /app/obliv-c \
 
 USER 185
 
-CMD "bash"
+CMD ["bash"]
